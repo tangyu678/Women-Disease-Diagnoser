@@ -1,0 +1,13 @@
+skin_burning_sensation
+thickening_of_skin
+dark_patches_of_skin_in_folds_and_creases
+swelling
+body_odour
+groin_sores
+skin_ulcer
+itching
+pain_bladder
+pain_rectum
+pain_lower_abdomen
+pain_genital_area
+c_swallowing
